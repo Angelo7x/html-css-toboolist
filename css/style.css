@@ -4,8 +4,12 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: rgb(235, 250, 250);
+}
+
 .parte-sup {
-    height: 160px;
+    background-color: white;
 }
 
 .logo-img {
@@ -15,4 +19,12 @@
 .logo-text {
     display: inline;
     vertical-align: middle;
+}
+
+.container {
+    background-color: white;
+    width: 500px;
+    height: 900px;
+    margin: auto;
+    margin-top: 50px;
 }
