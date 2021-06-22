@@ -24,7 +24,30 @@ body {
 .container {
     background-color: white;
     width: 500px;
-    height: 900px;
+    height: 650px;
     margin: auto;
     margin-top: 50px;
+    border-radius: 2%;
+}
+
+.testo {
+    padding: 25px;
+}
+
+.first-button {
+    padding: 5px;
+    background-color: rgb(31, 215, 248);
+    border-radius: 12%;
+    margin-top: 10px;
+    margin-left: 20px;
+    color: white;
+    
+}
+
+.second-button {
+    padding: 5px;
+    color: grey;
+    background-color: white;
+    border-radius: 12%;
+
 }
