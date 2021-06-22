@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.parte-sup {
+    height: 160px;
+}
+
+.logo-img {
+    vertical-align: middle;
+}
+
+.logo-text {
+    display: inline;
+    vertical-align: middle;
+}
