@@ -79,3 +79,23 @@ body {
     border-radius: 30%;
     padding: 5px;
 }
+.q1-goals {
+    background-color: violet;
+    color: white;
+    border-radius: 30%;
+    padding: 2px;
+}
+
+.recruiting {
+    background-color: green;
+    color: white;
+    border-radius: 30%;
+    padding: 2px
+}
+
+.mobile {
+    background-color: orange;
+    color: white;
+    border-radius: 30%;
+    padding: 2px
+}
