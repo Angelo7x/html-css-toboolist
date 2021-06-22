@@ -23,7 +23,7 @@ body {
 
 .container {
     background-color: white;
-    width: 500px;
+    width: 700px;
     height: 650px;
     margin: auto;
     margin-top: 50px;
@@ -50,4 +50,32 @@ body {
     background-color: white;
     border-radius: 12%;
 
+}
+
+.task {
+    padding: 25px;
+}
+
+.visto {
+    color: green;
+    background-color: white;
+    padding: 2px;
+    border-radius: 50%;
+    border: 1px solid green;
+}
+
+.prima-li {
+    list-style: none;
+}
+
+.prima {
+    margin-left: 25px;
+    display: inline-block;
+}
+
+.editorial {
+    background-color: rgb(31, 215, 248);
+    color: white;
+    border-radius: 30%;
+    padding: 5px;
 }
