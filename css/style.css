@@ -10,6 +10,7 @@ body {
 
 .parte-sup {
     background-color: white;
+    padding: 10px 20px;
 }
 
 .logo-img {
@@ -36,7 +37,7 @@ body {
 
 .first-button {
     padding: 5px;
-    background-color: rgb(31, 215, 248);
+    background-color: #47adf1;
     border-radius: 12%;
     margin-top: 10px;
     margin-left: 20px;
@@ -81,7 +82,7 @@ body {
 }
 
 .editorial {
-    background-color: rgb(31, 215, 248);
+    background-color: #47adf1;
     color: white;
     border-radius: 30%;
     padding: 5px;
